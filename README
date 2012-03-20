@@ -1,2 +1,3 @@
+prompt> irb -r "./lib/maths.rb"
 irb> Maths.setup
 irb> k_mult(1234, 5678)
